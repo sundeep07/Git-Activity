@@ -1,0 +1,7 @@
+# This is a simple helloworld script
+
+<<<<<<< HEAD
+print("Hello My World!")
+=======
+print("Hello Big World!")
+>>>>>>> feature/branch2
